@@ -1,7 +1,4 @@
 ![Cover](https://github.com/Fc85/Fc85/blob/main/img/cover.jpg)
-<div align="center>
-            <img src="https://github.com/Fc85/Fc85/blob/main/img/cover.jpg" />
-                                                                           </div>
 <!--
 ### Hi there 👋
 
