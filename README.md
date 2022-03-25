@@ -1,4 +1,4 @@
-![Cover](https://github.com/Fc85/Fc85/blob/main/image/ds.jpg)
+![Cover](https://github.com/Fc85/Fc85/blob/main/image/sg.jpg)
 <!--
 ### Hi there 👋
 
