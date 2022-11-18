@@ -1,6 +1,5 @@
-<img src="https://github.com/Fc85/Fc85/blob/main/.github/workflows/DevCard.svg" width="400" alt="Ma devCard"/>
-<!--
 ![Cover](https://github.com/Fc85/Fc85/blob/main/image/sg.jpg)
+<!--
 ### Hi there 👋
 
 **Fc85/Fc85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
